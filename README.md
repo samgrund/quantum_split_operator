@@ -1,2 +1,3 @@
-# quantum_split_operator
-Animations and code for python implementation of the split operator method in 1d and 2d.
+# Projekt i kvantemekanik Aarhus Universitet 2020: Numerisk løsning af den tidsafhængige schrödingerligning.
+
+Figurer og kode for de 3 cases findes i de tilsvarende mapper. God fornøjelse!
